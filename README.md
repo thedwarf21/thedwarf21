@@ -7,7 +7,7 @@
 
 # Version Française (pour les anglophoBes)
 - 👋 Bonjour, je suis François Roquefort 
-- 👀 Je m'intéresse à un grand nombre de sujets divers et variés, dont certains en rapoprt avec l'une de mes activités exercées, comme par exemple, le développement from scratch de jeux en HTML/CSS/javascript natif (quoi de plus normal, pour un dev un peu geek sur les bords), la musique (je suis ACI), et l'écriture (je suis également écrivain / philosophe / poète).
+- 👀 Je m'intéresse à un grand nombre de sujets divers et variés, dont certains en rapoprt avec les activités que j'exerce, comme par exemple, le développement from scratch de jeux en HTML/CSS/javascript natif (quoi de plus normal, pour un dev un peu geek sur les bords), la musique (je suis ACI), et l'écriture (je suis également écrivain / philosophe / poète).
 - 🌱 Je suis un autodidacte de 40 ans (tentez de deviner sur combien de sujets je me suis formé à ce jour, si vous l'osez 😜)... et je suis également formateur.
 - 💞️ Je suis un concepteur/développeur indépendant, à la recherche de sociétés avec lesquelles collaborer sur des projets complexes (j'aime bien faire joujou avec ma matière grise : ça ne coûte pas cher et ne nécessite aucun matériel).
 - 📫 francois.roquefort@gmail.com (cette partie là ne change pas en VF, mais je vous la laisse quand même : pas de jaloux)
